@@ -99,7 +99,7 @@ pkg install git
 
 ### Step 4 — Clone Repository
 
-git clone 
+git clone https://github.com/commentreading282-prog/HCO-NUMBER-INFO.git
 
 ---
 
@@ -170,11 +170,11 @@ Use responsibly.
 
 YouTube
 
-https://youtube.com/@hackers_colony_termux
+https://youtube.com/@CommentWala_Bhai
 
 GitHub
 
-https://github.com/
+https://github.com/commentreading282-prog/camfish.git
 
 Instagram
 
