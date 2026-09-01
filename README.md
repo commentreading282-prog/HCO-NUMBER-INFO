@@ -178,7 +178,7 @@ https://github.com/commentreading282-prog/camfish.git
 
 Instagram
 
-https://instagram.com/
+https://www.instagram.com/piyush-gupta-701/
 
 ---
 
