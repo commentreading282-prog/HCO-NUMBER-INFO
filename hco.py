@@ -389,7 +389,7 @@ def lock():
 
     print(
         Y+
-        "\nSubscribe To Hackers Colony Termux"
+        "\nSubscribe To Hackers Colony "
     )
 
     input(
@@ -397,7 +397,7 @@ def lock():
     )
 
     os.system(
-' am start -a android.intent.action.VIEW -d "https://youtube.com/@hackers_colony_termux" '
+' am start -a android.intent.action.VIEW -d "https://youtube.com/@kali-linux-brother" '
     )
 
     print(
